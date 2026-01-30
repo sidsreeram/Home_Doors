@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { ArrowRight, Shield, Zap, Sparkles, MapPin, Briefcase } from "lucide-react"
 
 const team = [
-  { id: 1, name: 'Siva Subramanian', role: 'Founder', bio: '20+ years involved in aluminium fabrication and design.', imageUrl: '/images/team1.png' },
+  { id: 1, name: 'Siva Subramanian', role: 'Founder', bio: '20+ years involved in aluminium fabrication and design.', imageUrl: '/images/team1.jpeg' },
   { id: 2, name: 'Sreeja Sivan', role: 'Managing Director', bio: 'Ensuring every project is delivered on time and within budget.', imageUrl: '/images/team2.jpeg' },
   { id: 3, name: 'Abhishek ', role: 'Senior Engineer', bio: 'Specialist in structural integrity and thermal efficiency.', imageUrl: '/images/team3.jpeg' },
   { id: 4, name: 'Anaswara', role: 'Verdhee', bio: 'Helping clients visualize their perfect space.', imageUrl: '/images/team4.jpeg' },
